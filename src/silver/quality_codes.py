@@ -1,0 +1,10 @@
+"""Standard data quality failure codes for the Silver layer."""
+
+COMPLETENESS_FAIL = "COMPLETENESS_FAIL"
+UNIQUENESS_FAIL = "UNIQUENESS_FAIL"
+TYPE_VALIDATION_FAIL = "TYPE_VALIDATION_FAIL"
+REF_INTEGRITY_FAIL = "REF_INTEGRITY_FAIL"
+CONSISTENCY_FAIL = "CONSISTENCY_FAIL"
+
+CUSTOMER_SEGMENTS = ("Premium", "Standard", "Basic")
+ORDER_STATUSES = ("Pending", "Completed", "Cancelled")

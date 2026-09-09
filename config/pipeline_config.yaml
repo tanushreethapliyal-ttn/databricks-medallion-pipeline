@@ -1,0 +1,38 @@
+# Pipeline configuration — override via Databricks widgets or environment variables.
+# Do not store credentials or secrets in this file.
+
+landing_path: "/Workspace/Users/tanushreethapliyal3@gmail.com/databricks-medallion-pipeline/databricks-medallion-pipeline/Data/raw"
+
+# Leave catalog empty for default hive metastore (Databricks Community Edition).
+catalog: ""
+
+bronze_schema: bronze
+silver_schema: silver
+gold_schema: gold
+
+source_files:
+  customers: customers.csv
+  orders: orders.csv
+  products: products.csv
+
+bronze_tables:
+  customers: customers
+  orders: orders
+  products: products
+  ingestion_log: ingestion_log
+
+silver_tables:
+  customers: customers
+  orders: orders
+  products: products
+  quality_metrics: quality_metrics
+
+gold_tables:
+  sales_by_product: sales_by_product
+  revenue_by_customer: revenue_by_customer
+  customer_segmentation: customer_segmentation
+
+gold_settings:
+  completed_order_status: Completed
+  revenue_tier_high_min: 5000
+  revenue_tier_medium_min: 1000
