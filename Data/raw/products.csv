@@ -1,0 +1,501 @@
+product_id,product_name,category,price,cost,stock_quantity,reorder_level
+1,Purpose Clothing 0001,Clothing,17.38,8.0,457,45
+2,Brother Clothing 0002,Clothing,339.97,240.32,178,161
+3,Ago Toys 0003,Toys,20.73,8.03,476,139
+4,Site Office 0004,Office,18.14,7.79,1330,189
+5,Face Health 0005,Health,212.66,112.64,569,11
+6,Election Home 0006,Home & Garden,350.58,170.42,318,65
+7,Dog Beauty 0007,Beauty,55.59,27.9,735,98
+8,Chair Office 0008,Office,135.94,49.94,940,147
+9,Since Clothing 0009,Clothing,486.69,244.03,1130,85
+10,Blue Office 0010,Office,443.3,219.28,393,190
+11,Require Clothing 0011,Clothing,27.68,12.21,592,30
+12,Sit Sports 0012,Sports,433.91,217.84,928,172
+13,Wait Beauty 0013,Beauty,85.51,42.08,1372,78
+14,Offer Clothing 0014,Clothing,306.52,128.26,1493,72
+15,Begin Home 0015,Home & Garden,233.82,107.08,1895,173
+16,Performance Health 0016,Health,113.71,54.55,1573,24
+17,Knowledge Sports 0017,Sports,411.79,276.73,821,78
+18,Almost Clothing 0018,Clothing,109.44,79.58,1794,193
+19,All Beauty 0019,Beauty,110.25,60.6,1811,174
+20,Better Automotive 0020,Automotive,75.72,30.73,1525,153
+21,Discover Health 0021,Health,135.06,78.85,1838,159
+22,Early Toys 0022,Toys,184.19,137.95,283,140
+23,Mouth Automotive 0023,Automotive,50.0,18.44,224,49
+24,Play Home 0024,Home & Garden,397.08,206.03,130,108
+25,Agreement Toys 0025,Toys,299.96,161.14,514,151
+26,Option Electronics 0026,Electronics,341.74,135.27,1812,147
+27,Decide Books 0027,Books,385.46,187.36,601,121
+28,Sense Home 0028,Home & Garden,229.59,167.95,1793,194
+29,Rate Books 0029,Books,486.08,318.28,1039,37
+30,Science Books 0030,Books,421.63,233.19,407,49
+31,Offer Beauty 0031,Beauty,382.44,216.37,1594,145
+32,Kind Electronics 0032,Electronics,301.48,164.44,229,102
+33,Discussion Books 0033,Books,123.53,55.14,1161,30
+34,List Clothing 0034,Clothing,367.29,248.44,1557,146
+35,Perform Home 0035,Home & Garden,68.55,37.02,1125,52
+36,Fall Books 0036,Books,266.2,157.76,1975,64
+37,Table Health 0037,Health,378.86,237.15,1460,89
+38,True Toys 0038,Toys,497.6,303.51,897,142
+39,According Automotive 0039,Automotive,64.9,28.55,692,15
+40,Song Office 0040,Office,279.19,163.43,14,28
+41,Sure Electronics 0041,Electronics,118.33,84.27,1760,94
+42,Collection Clothing 0042,Clothing,259.51,119.74,994,64
+43,Save Health 0043,Health,70.49,51.05,1169,157
+44,Knowledge Automotive 0044,Automotive,125.28,67.55,833,58
+45,Grow Clothing 0045,Clothing,52.98,27.68,867,115
+46,Fall Automotive 0046,Automotive,432.6,160.78,1338,175
+47,Clearly Clothing 0047,Clothing,35.0,22.44,1639,37
+48,Dinner Sports 0048,Sports,99.84,56.36,287,118
+49,Source Home 0049,Home & Garden,142.88,64.28,1890,29
+50,Great Automotive 0050,Automotive,404.97,280.4,200,22
+51,Blue Health 0051,Health,418.83,308.93,1897,70
+52,Best Home 0052,Home & Garden,206.17,111.86,1770,112
+53,Husband Electronics 0053,Electronics,86.5,30.35,799,77
+54,Bill Automotive 0054,Automotive,146.2,91.91,1496,152
+55,Her Automotive 0055,Automotive,81.62,38.25,1983,24
+56,Throw Office 0056,Office,369.19,138.22,642,24
+57,Guy Electronics 0057,Electronics,294.17,162.13,1746,145
+58,Pm Home 0058,Home & Garden,33.16,18.34,1743,57
+59,Everything Clothing 0059,Clothing,299.54,185.74,481,113
+60,Surface Clothing 0060,Clothing,471.09,272.23,1185,162
+61,Animal Electronics 0061,Electronics,311.59,161.31,1195,154
+62,Show Health 0062,Health,161.6,73.42,1371,193
+63,Machine Beauty 0063,Beauty,123.15,62.6,1375,175
+64,Not Books 0064,Books,231.33,166.93,1916,28
+65,Capital Electronics 0065,Electronics,231.85,173.74,204,28
+66,Win Health 0066,Health,110.51,50.4,1911,99
+67,Human Clothing 0067,Clothing,440.24,219.16,323,122
+68,Bar Health 0068,Health,353.25,210.07,1652,177
+69,Old Health 0069,Health,8.87,6.0,613,179
+70,Finally Clothing 0070,Clothing,469.77,189.65,236,37
+71,Themselves Health 0071,Health,81.95,37.92,431,193
+72,Production Beauty 0072,Beauty,105.78,63.86,540,139
+73,Present Automotive 0073,Automotive,129.31,92.23,104,33
+74,Value Toys 0074,Toys,415.53,152.76,683,43
+75,Training Books 0075,Books,84.98,44.76,1445,119
+76,High Health 0076,Health,9.79,3.72,1808,186
+77,Participant Home 0077,Home & Garden,275.07,188.1,1192,151
+78,Dark Home 0078,Home & Garden,217.74,79.85,746,20
+79,Sea Beauty 0079,Beauty,108.99,49.02,210,100
+80,Available Health 0080,Health,442.65,226.88,1271,49
+81,Answer Sports 0081,Sports,432.98,320.61,1660,55
+82,Recently Toys 0082,Toys,17.27,11.13,680,115
+83,Drive Sports 0083,Sports,137.07,91.14,221,107
+84,Spring Electronics 0084,Electronics,430.0,188.76,1672,127
+85,Figure Beauty 0085,Beauty,156.07,104.28,466,67
+86,Base Electronics 0086,Electronics,331.72,168.97,570,27
+87,Top Books 0087,Books,178.82,99.02,1391,147
+88,Early Beauty 0088,Beauty,469.92,186.15,1987,76
+89,Trial Home 0089,Home & Garden,292.39,217.37,78,37
+90,Blood Office 0090,Office,220.11,141.18,642,121
+91,Husband Office 0091,Office,492.2,195.04,1842,157
+92,Fall Sports 0092,Sports,131.09,83.05,3,143
+93,Long Health 0093,Health,344.99,250.5,1509,181
+94,Prove Sports 0094,Sports,185.29,70.04,1360,94
+95,They Office 0095,Office,160.39,110.54,1474,86
+96,His Health 0096,Health,158.1,81.16,824,188
+97,Commercial Books 0097,Books,279.43,119.24,1361,107
+98,Hospital Home 0098,Home & Garden,309.68,145.67,1122,10
+99,Hear Books 0099,Books,147.02,76.74,1187,165
+100,Determine Beauty 0100,Beauty,235.17,123.9,437,140
+101,Religious Automotive 0101,Automotive,397.9,292.03,1507,53
+102,Example Clothing 0102,Clothing,145.47,89.54,1268,95
+103,Science Clothing 0103,Clothing,410.12,266.76,1377,89
+104,Write Sports 0104,Sports,404.25,165.31,94,72
+105,Result Automotive 0105,Automotive,307.58,202.2,932,116
+106,Raise Office 0106,Office,101.25,63.64,1012,112
+107,Away Sports 0107,Sports,78.05,48.79,1828,37
+108,Politics Toys 0108,Toys,113.33,76.12,1425,142
+109,Prove Automotive 0109,Automotive,29.86,13.43,1737,41
+110,Congress Automotive 0110,Automotive,71.0,38.05,1087,153
+111,None Office 0111,Office,162.06,105.68,906,166
+112,Shoulder Health 0112,Health,216.24,154.12,913,50
+113,Election Automotive 0113,Automotive,227.78,148.22,1720,173
+114,Common Books 0114,Books,384.08,214.52,1283,71
+115,Maintain Books 0115,Books,222.74,141.53,480,79
+116,Hundred Beauty 0116,Beauty,163.26,92.42,283,48
+117,Expect Sports 0117,Sports,194.6,80.0,438,26
+118,Wish Toys 0118,Toys,206.76,117.24,851,25
+119,Push Sports 0119,Sports,417.28,211.06,1576,159
+120,Rise Electronics 0120,Electronics,429.08,281.58,779,132
+121,Onto Electronics 0121,Electronics,471.66,221.42,798,117
+122,Discuss Health 0122,Health,375.02,213.18,1235,66
+123,Reveal Automotive 0123,Automotive,113.61,59.57,59,109
+124,Garden Beauty 0124,Beauty,336.09,224.93,1483,52
+125,Threat Automotive 0125,Automotive,460.17,341.58,1093,16
+126,Special Toys 0126,Toys,297.99,183.32,171,174
+127,Stand Toys 0127,Toys,72.17,38.59,102,76
+128,Arrive Toys 0128,Toys,167.04,88.85,691,107
+129,Drop Books 0129,Books,377.24,257.57,516,30
+130,Term Automotive 0130,Automotive,14.59,8.25,1949,99
+131,Almost Sports 0131,Sports,326.82,216.52,1334,20
+132,Support Electronics 0132,Electronics,475.06,204.15,41,169
+133,Four Home 0133,Home & Garden,123.08,66.39,234,154
+134,Institution Sports 0134,Sports,235.19,106.42,755,52
+135,Executive Office 0135,Office,305.59,198.38,234,51
+136,Attorney Books 0136,Books,58.51,21.08,638,157
+137,Development Toys 0137,Toys,201.34,128.05,155,161
+138,White Sports 0138,Sports,55.44,36.53,1741,185
+139,Yes Office 0139,Office,403.74,269.9,1159,20
+140,Our Beauty 0140,Beauty,268.71,165.15,141,139
+141,Under Beauty 0141,Beauty,11.26,5.83,1003,37
+142,Serious Toys 0142,Toys,480.59,290.39,1697,127
+143,Forward Home 0143,Home & Garden,220.57,141.94,1977,176
+144,Difference Books 0144,Books,309.88,222.45,1586,133
+145,Reality Automotive 0145,Automotive,220.61,141.72,549,92
+146,Money Sports 0146,Sports,416.21,160.1,1805,125
+147,Individual Sports 0147,Sports,376.49,217.59,1368,107
+148,Usually Beauty 0148,Beauty,19.21,13.26,372,134
+149,Who Sports 0149,Sports,180.64,81.89,572,162
+150,Question Books 0150,Books,280.12,155.93,391,31
+151,Low Sports 0151,Sports,361.44,197.14,1552,71
+152,Character Automotive 0152,Automotive,324.72,177.4,1623,14
+153,Evidence Clothing 0153,Clothing,150.65,77.1,498,88
+154,Chair Office 0154,Office,187.67,107.23,704,118
+155,Employee Health 0155,Health,168.74,106.5,554,88
+156,Size Books 0156,Books,119.12,76.06,646,40
+157,Option Health 0157,Health,475.68,297.81,392,65
+158,Nothing Automotive 0158,Automotive,141.87,83.11,1556,144
+159,Everyone Office 0159,Office,145.08,56.61,397,85
+160,Skin Sports 0160,Sports,183.64,86.48,1450,146
+161,Pattern Home 0161,Home & Garden,140.78,104.14,1133,84
+162,Later Home 0162,Home & Garden,320.75,208.85,210,13
+163,Water Office 0163,Office,145.75,78.92,697,57
+164,Past Electronics 0164,Electronics,129.98,90.3,233,26
+165,Inside Toys 0165,Toys,248.41,144.28,1405,23
+166,High Home 0166,Home & Garden,78.85,45.35,622,31
+167,Discuss Sports 0167,Sports,63.63,41.73,1241,162
+168,Certainly Office 0168,Office,116.72,65.25,922,123
+169,Mr Books 0169,Books,430.78,321.37,625,155
+170,Minute Office 0170,Office,34.81,25.55,203,63
+171,Benefit Sports 0171,Sports,136.0,52.02,491,54
+172,Someone Health 0172,Health,42.16,14.8,922,186
+173,Anyone Office 0173,Office,237.61,86.27,590,190
+174,Traditional Books 0174,Books,352.98,187.65,1407,69
+175,Break Books 0175,Books,394.97,236.99,1354,60
+176,Claim Toys 0176,Toys,61.81,27.19,305,78
+177,Product Home 0177,Home & Garden,40.35,16.8,629,162
+178,Collection Office 0178,Office,460.99,242.32,959,186
+179,Structure Books 0179,Books,351.37,255.47,1024,148
+180,Response Automotive 0180,Automotive,221.69,130.62,1821,120
+181,Knowledge Beauty 0181,Beauty,303.84,109.49,468,182
+182,Pick Office 0182,Office,295.63,105.92,1566,182
+183,Attack Books 0183,Books,290.24,190.18,358,130
+184,Image Health 0184,Health,327.5,234.63,371,159
+185,I Toys 0185,Toys,319.22,174.51,186,130
+186,Pick Beauty 0186,Beauty,207.13,99.1,214,51
+187,Management Beauty 0187,Beauty,208.76,114.44,1356,112
+188,Newspaper Health 0188,Health,23.17,8.93,516,92
+189,Enter Clothing 0189,Clothing,485.24,248.28,1053,10
+190,On Health 0190,Health,233.68,86.85,1061,102
+191,Traditional Office 0191,Office,379.44,227.73,1556,23
+192,Yes Sports 0192,Sports,137.19,55.21,589,122
+193,Activity Automotive 0193,Automotive,65.11,48.13,1246,71
+194,Response Home 0194,Home & Garden,158.82,56.46,835,33
+195,Set Sports 0195,Sports,496.17,354.85,945,40
+196,Building Home 0196,Home & Garden,251.7,160.24,1042,190
+197,Rest Books 0197,Books,210.67,114.39,967,72
+198,Value Automotive 0198,Automotive,277.88,139.89,1887,163
+199,Not Health 0199,Health,374.41,151.49,142,80
+200,Social Toys 0200,Toys,173.24,115.22,547,10
+201,Example Books 0201,Books,364.4,249.61,1187,178
+202,Specific Automotive 0202,Automotive,433.3,229.05,991,98
+203,Put Beauty 0203,Beauty,278.2,157.84,932,92
+204,Grow Sports 0204,Sports,490.48,218.52,784,69
+205,Brother Toys 0205,Toys,26.61,17.24,1444,107
+206,Finally Toys 0206,Toys,494.26,329.65,1335,48
+207,Learn Automotive 0207,Automotive,482.59,193.28,1977,161
+208,Coach Beauty 0208,Beauty,435.5,304.71,901,35
+209,Long Health 0209,Health,455.67,162.28,295,114
+210,About Home 0210,Home & Garden,42.04,27.86,542,96
+211,Seven Office 0211,Office,347.89,212.19,1744,94
+212,Type Health 0212,Health,193.1,92.04,1471,134
+213,Serve Health 0213,Health,22.77,8.59,1292,185
+214,Everyone Books 0214,Books,498.73,323.53,888,35
+215,Month Clothing 0215,Clothing,224.62,140.97,1850,17
+216,Sound Electronics 0216,Electronics,165.57,61.67,734,105
+217,Could Toys 0217,Toys,77.06,43.34,1159,184
+218,Movement Home 0218,Home & Garden,89.14,34.01,1783,107
+219,While Office 0219,Office,343.15,188.41,1194,46
+220,Born Sports 0220,Sports,233.27,105.34,522,180
+221,Truth Electronics 0221,Electronics,449.96,241.22,589,183
+222,Process Health 0222,Health,83.2,43.82,707,160
+223,Fire Books 0223,Books,321.27,166.97,512,126
+224,Thought Books 0224,Books,103.61,52.21,989,37
+225,Purpose Sports 0225,Sports,193.78,95.65,605,189
+226,Movement Books 0226,Books,15.86,10.82,810,80
+227,Politics Electronics 0227,Electronics,285.13,178.01,1525,22
+228,Decide Office 0228,Office,373.86,255.4,1849,83
+229,Claim Sports 0229,Sports,305.5,149.98,1303,58
+230,Hour Office 0230,Office,129.06,84.18,1571,178
+231,Sound Home 0231,Home & Garden,315.98,224.78,1323,20
+232,Color Books 0232,Books,395.36,143.65,747,197
+233,Notice Home 0233,Home & Garden,49.62,23.22,1530,116
+234,Start Home 0234,Home & Garden,104.39,69.38,1794,103
+235,Win Health 0235,Health,253.39,116.31,336,75
+236,Nice Automotive 0236,Automotive,483.86,226.47,1782,96
+237,Why Clothing 0237,Clothing,236.82,90.02,1544,67
+238,A Toys 0238,Toys,483.8,325.03,749,33
+239,Place Toys 0239,Toys,11.89,6.71,931,104
+240,Game Books 0240,Books,294.36,199.86,1925,105
+241,Middle Clothing 0241,Clothing,339.04,182.6,1268,153
+242,After Beauty 0242,Beauty,458.05,200.88,129,172
+243,Brother Automotive 0243,Automotive,455.15,214.32,836,39
+244,Woman Home 0244,Home & Garden,27.45,10.02,1008,39
+245,Him Clothing 0245,Clothing,121.23,68.5,795,126
+246,Unit Beauty 0246,Beauty,336.89,218.05,1937,148
+247,Theory Toys 0247,Toys,295.73,189.46,1813,116
+248,Surface Clothing 0248,Clothing,417.68,249.05,1923,81
+249,Food Electronics 0249,Electronics,346.69,151.47,910,70
+250,Education Beauty 0250,Beauty,54.18,33.82,1115,175
+251,Article Beauty 0251,Beauty,34.97,16.1,1982,41
+252,Effect Automotive 0252,Automotive,50.38,21.91,1309,162
+253,Unit Electronics 0253,Electronics,30.04,14.52,257,154
+254,Our Sports 0254,Sports,38.96,25.56,424,160
+255,Your Sports 0255,Sports,407.46,180.59,1585,47
+256,Bar Office 0256,Office,6.4,4.44,296,43
+257,Bed Health 0257,Health,129.07,54.18,1353,16
+258,Sign Home 0258,Home & Garden,12.36,8.23,487,160
+259,Mention Beauty 0259,Beauty,12.81,5.84,259,199
+260,Team Toys 0260,Toys,265.41,172.06,975,124
+261,Authority Beauty 0261,Beauty,259.05,101.97,1031,66
+262,Soon Office 0262,Office,26.47,17.56,1775,178
+263,No Health 0263,Health,154.31,93.72,63,25
+264,Space Automotive 0264,Automotive,424.41,220.91,221,135
+265,Car Automotive 0265,Automotive,41.38,15.82,1245,47
+266,Career Clothing 0266,Clothing,67.46,40.46,1198,150
+267,Receive Beauty 0267,Beauty,193.55,113.99,603,126
+268,May Health 0268,Health,304.69,118.73,1437,39
+269,Your Health 0269,Health,361.82,157.76,924,68
+270,Often Toys 0270,Toys,172.77,91.81,851,196
+271,Company Clothing 0271,Clothing,159.71,75.86,522,105
+272,Evidence Home 0272,Home & Garden,344.98,186.19,186,31
+273,News Clothing 0273,Clothing,218.78,141.73,763,43
+274,Turn Health 0274,Health,34.69,25.42,1150,94
+275,Policy Clothing 0275,Clothing,208.35,145.73,1927,118
+276,Land Electronics 0276,Electronics,484.36,285.85,720,36
+277,Development Office 0277,Office,256.17,105.51,987,67
+278,Woman Clothing 0278,Clothing,178.31,102.08,235,81
+279,Notice Office 0279,Office,116.95,61.01,1148,169
+280,Someone Office 0280,Office,339.11,194.21,1247,178
+281,Show Books 0281,Books,19.33,8.88,1561,89
+282,Road Beauty 0282,Beauty,178.76,75.54,293,154
+283,Deep Toys 0283,Toys,39.44,25.49,1990,17
+284,Sell Clothing 0284,Clothing,374.33,163.23,859,126
+285,Forget Beauty 0285,Beauty,82.92,39.36,664,155
+286,Inside Office 0286,Office,47.05,17.46,322,168
+287,Remain Electronics 0287,Electronics,338.61,155.37,1355,118
+288,Rate Automotive 0288,Automotive,305.5,157.54,441,141
+289,Hour Clothing 0289,Clothing,175.86,69.35,1388,183
+290,Left Office 0290,Office,245.88,151.67,93,66
+291,We Toys 0291,Toys,492.3,183.09,418,87
+292,Nation Sports 0292,Sports,384.84,252.33,592,93
+293,Live Clothing 0293,Clothing,8.83,5.73,359,43
+294,Camera Toys 0294,Toys,268.63,118.75,1144,181
+295,End Beauty 0295,Beauty,40.68,28.26,86,121
+296,Down Electronics 0296,Electronics,232.58,88.65,641,157
+297,Attack Toys 0297,Toys,288.83,183.06,855,84
+298,Ground Clothing 0298,Clothing,205.49,151.34,351,168
+299,Against Automotive 0299,Automotive,416.85,299.26,180,121
+300,Per Clothing 0300,Clothing,125.44,73.45,1073,30
+301,Once Toys 0301,Toys,435.91,282.61,453,95
+302,Drug Home 0302,Home & Garden,42.81,25.83,1086,140
+303,Per Sports 0303,Sports,453.43,222.07,1489,175
+304,Discussion Home 0304,Home & Garden,121.95,49.83,404,54
+305,Account Office 0305,Office,80.67,52.73,154,55
+306,Avoid Automotive 0306,Automotive,234.66,135.05,1186,124
+307,Second Office 0307,Office,323.28,240.72,661,170
+308,Program Beauty 0308,Beauty,79.72,30.08,905,171
+309,Artist Books 0309,Books,399.18,234.15,720,139
+310,Drop Clothing 0310,Clothing,158.65,84.21,116,104
+311,Author Books 0311,Books,42.98,29.9,1751,33
+312,Western Office 0312,Office,299.07,150.67,1188,151
+313,Almost Electronics 0313,Electronics,227.62,153.4,1334,58
+314,Trade Beauty 0314,Beauty,304.48,167.63,1961,25
+315,Give Automotive 0315,Automotive,56.23,39.9,703,192
+316,Avoid Clothing 0316,Clothing,254.75,106.75,507,191
+317,My Automotive 0317,Automotive,495.54,277.32,1248,50
+318,Economy Beauty 0318,Beauty,189.56,87.8,837,96
+319,Family Office 0319,Office,30.92,18.62,685,26
+320,Relationship Beauty 0320,Beauty,51.78,32.17,581,74
+321,Mention Office 0321,Office,437.27,211.35,1193,179
+322,Difficult Home 0322,Home & Garden,458.79,217.51,1343,188
+323,Notice Toys 0323,Toys,68.83,43.61,173,89
+324,Cause Health 0324,Health,191.46,127.64,1665,42
+325,Several Health 0325,Health,51.26,31.69,1041,102
+326,Worry Electronics 0326,Electronics,184.49,77.87,438,97
+327,Us Automotive 0327,Automotive,100.04,75.03,317,29
+328,Own Books 0328,Books,422.99,165.16,1578,148
+329,Part Health 0329,Health,23.69,11.48,1569,168
+330,Material Home 0330,Home & Garden,300.64,123.77,370,187
+331,Eight Office 0331,Office,405.48,168.77,896,21
+332,Still Toys 0332,Toys,185.33,118.21,1985,123
+333,Material Office 0333,Office,146.04,94.84,919,69
+334,Surface Health 0334,Health,123.39,90.84,1606,130
+335,Investment Sports 0335,Sports,187.08,136.35,902,128
+336,Customer Books 0336,Books,390.17,215.05,857,51
+337,Between Sports 0337,Sports,401.62,162.8,512,23
+338,Bill Automotive 0338,Automotive,437.69,250.28,210,192
+339,Reason Health 0339,Health,426.33,197.83,1562,51
+340,Lawyer Books 0340,Books,227.41,126.29,1701,121
+341,Health Clothing 0341,Clothing,473.47,207.77,923,99
+342,Land Electronics 0342,Electronics,210.37,106.99,765,70
+343,Item Toys 0343,Toys,497.29,248.63,57,91
+344,Manage Clothing 0344,Clothing,420.39,256.43,1620,47
+345,Treat Home 0345,Home & Garden,23.96,17.18,967,188
+346,Shoulder Home 0346,Home & Garden,380.63,204.64,1260,11
+347,Arm Clothing 0347,Clothing,14.41,6.29,306,150
+348,Report Office 0348,Office,266.25,105.03,590,70
+349,Ready Books 0349,Books,65.31,29.09,1308,169
+350,Race Automotive 0350,Automotive,36.09,24.71,1023,162
+351,Billion Health 0351,Health,13.14,7.31,495,193
+352,Ask Home 0352,Home & Garden,149.18,52.31,722,71
+353,Interesting Office 0353,Office,211.2,130.05,175,144
+354,Should Beauty 0354,Beauty,38.5,21.58,1039,139
+355,Group Health 0355,Health,15.07,10.54,89,172
+356,Such Toys 0356,Toys,490.61,221.49,33,101
+357,Training Clothing 0357,Clothing,175.68,112.99,1286,36
+358,Boy Office 0358,Office,368.92,178.19,90,100
+359,Energy Health 0359,Health,172.58,104.78,1700,185
+360,Dark Automotive 0360,Automotive,490.51,265.57,373,44
+361,Customer Clothing 0361,Clothing,359.44,261.47,75,85
+362,Not Sports 0362,Sports,26.68,11.47,85,90
+363,List Books 0363,Books,260.11,193.95,1112,131
+364,Challenge Books 0364,Books,23.13,14.08,585,101
+365,Knowledge Electronics 0365,Electronics,433.57,209.31,254,104
+366,Cover Toys 0366,Toys,445.3,288.25,1832,108
+367,Family Beauty 0367,Beauty,486.99,267.1,1018,104
+368,Maintain Health 0368,Health,137.03,52.49,869,30
+369,Enjoy Toys 0369,Toys,303.21,205.86,1117,85
+370,Two Beauty 0370,Beauty,55.79,26.84,605,88
+371,Wind Automotive 0371,Automotive,303.3,157.85,1412,123
+372,Bag Beauty 0372,Beauty,226.33,145.02,1866,100
+373,Level Office 0373,Office,499.08,229.49,1620,24
+374,System Clothing 0374,Clothing,337.24,172.83,1050,183
+375,Training Home 0375,Home & Garden,476.63,194.04,1244,183
+376,Total Automotive 0376,Automotive,22.23,8.38,1594,175
+377,Oil Beauty 0377,Beauty,184.26,134.47,66,164
+378,Billion Home 0378,Home & Garden,341.14,248.87,761,123
+379,Apply Clothing 0379,Clothing,289.09,162.41,815,90
+380,Reach Books 0380,Books,128.56,50.83,1506,57
+381,Now Automotive 0381,Automotive,261.28,186.92,241,77
+382,Think Books 0382,Books,353.5,154.07,1253,83
+383,Administration Automotive 0383,Automotive,104.09,42.08,151,125
+384,Better Home 0384,Home & Garden,449.85,237.54,179,184
+385,With Beauty 0385,Beauty,335.58,212.7,1126,148
+386,Some Books 0386,Books,446.21,308.13,1457,191
+387,Time Home 0387,Home & Garden,397.88,220.23,248,61
+388,Economic Home 0388,Home & Garden,122.18,66.91,739,151
+389,Compare Office 0389,Office,187.61,125.97,1129,43
+390,Investment Office 0390,Office,442.7,166.59,815,193
+391,Mention Automotive 0391,Automotive,265.22,174.43,1686,157
+392,Medical Clothing 0392,Clothing,67.04,31.97,151,125
+393,Different Automotive 0393,Automotive,341.65,166.66,1798,151
+394,Treatment Office 0394,Office,95.07,70.02,886,138
+395,Institution Electronics 0395,Electronics,416.54,232.11,622,52
+396,Weight Home 0396,Home & Garden,164.72,104.39,708,142
+397,Artist Books 0397,Books,423.74,190.79,1300,151
+398,Community Books 0398,Books,66.96,31.55,1092,33
+399,Hundred Health 0399,Health,322.29,189.1,1189,49
+400,Able Home 0400,Home & Garden,331.07,211.31,1239,96
+401,In Office 0401,Office,25.39,17.66,166,21
+402,Evidence Office 0402,Office,136.0,59.07,1171,116
+403,With Office 0403,Office,321.3,176.46,1284,149
+404,Step Books 0404,Books,322.74,151.96,501,185
+405,Still Toys 0405,Toys,152.23,57.72,122,50
+406,Look Automotive 0406,Automotive,210.73,112.9,696,165
+407,Feeling Home 0407,Home & Garden,159.73,101.8,1503,98
+408,Land Toys 0408,Toys,69.73,34.74,1150,37
+409,Same Beauty 0409,Beauty,124.66,49.74,920,73
+410,Side Home 0410,Home & Garden,52.92,24.67,786,167
+411,Step Toys 0411,Toys,127.89,89.03,327,93
+412,Only Office 0412,Office,361.96,154.17,326,137
+413,Recently Health 0413,Health,236.07,165.63,1018,15
+414,Serious Clothing 0414,Clothing,472.89,261.12,1979,71
+415,Message Sports 0415,Sports,293.76,108.53,576,136
+416,Clear Office 0416,Office,441.76,270.23,963,83
+417,Customer Health 0417,Health,9.05,3.56,274,77
+418,Fine Beauty 0418,Beauty,383.11,190.17,820,23
+419,Director Office 0419,Office,283.1,140.14,591,28
+420,Article Toys 0420,Toys,254.61,166.96,572,169
+421,Particularly Office 0421,Office,63.81,47.22,806,105
+422,Simply Beauty 0422,Beauty,281.13,139.51,295,60
+423,Occur Office 0423,Office,257.02,141.37,92,19
+424,Ask Home 0424,Home & Garden,358.23,240.58,1063,126
+425,Small Home 0425,Home & Garden,305.1,169.7,671,166
+426,Former Beauty 0426,Beauty,85.44,63.76,1514,86
+427,Art Office 0427,Office,171.5,116.85,1090,135
+428,Apply Office 0428,Office,153.4,103.74,754,94
+429,Pattern Clothing 0429,Clothing,490.05,285.93,1631,195
+430,Me Electronics 0430,Electronics,300.47,137.08,1342,158
+431,Morning Office 0431,Office,117.63,43.59,983,53
+432,Wide Health 0432,Health,316.37,189.16,1722,107
+433,Tonight Home 0433,Home & Garden,411.72,183.99,1172,189
+434,Nice Clothing 0434,Clothing,99.44,52.35,857,48
+435,Coach Toys 0435,Toys,346.8,178.31,1587,166
+436,Art Automotive 0436,Automotive,437.04,281.6,127,190
+437,Movie Home 0437,Home & Garden,261.75,150.34,1356,132
+438,Be Health 0438,Health,191.53,140.33,941,146
+439,Today Beauty 0439,Beauty,275.41,170.85,1776,194
+440,Cultural Books 0440,Books,306.99,131.06,504,81
+441,Authority Health 0441,Health,152.76,110.99,609,83
+442,Physical Sports 0442,Sports,346.67,189.14,982,99
+443,Author Health 0443,Health,467.18,312.15,560,83
+444,Republican Clothing 0444,Clothing,288.87,163.87,1834,111
+445,Training Beauty 0445,Beauty,477.53,320.83,594,20
+446,Easy Books 0446,Books,477.88,182.36,1892,123
+447,International Books 0447,Books,374.93,163.32,1695,147
+448,Call Books 0448,Books,466.85,293.4,281,37
+449,Year Office 0449,Office,371.74,165.69,103,181
+450,Voice Health 0450,Health,116.71,51.72,205,115
+451,Over Beauty 0451,Beauty,360.09,140.51,1578,45
+452,Employee Electronics 0452,Electronics,482.44,357.57,323,114
+453,Particular Automotive 0453,Automotive,241.34,103.72,1974,83
+454,Phone Beauty 0454,Beauty,146.28,54.66,1574,32
+455,Among Office 0455,Office,119.95,77.42,1741,19
+456,President Home 0456,Home & Garden,211.85,145.13,1912,19
+457,Beat Toys 0457,Toys,395.04,167.7,1533,84
+458,Kind Electronics 0458,Electronics,9.59,5.54,219,95
+459,Really Books 0459,Books,229.9,139.44,1073,136
+460,Past Home 0460,Home & Garden,426.27,229.0,394,38
+461,Other Beauty 0461,Beauty,85.43,45.58,526,193
+462,Necessary Home 0462,Home & Garden,11.97,5.8,604,155
+463,Four Sports 0463,Sports,91.87,63.62,1837,113
+464,Worry Toys 0464,Toys,260.06,100.04,1370,34
+465,Every Home 0465,Home & Garden,490.93,265.58,1916,73
+466,Democratic Electronics 0466,Electronics,134.09,59.56,1543,78
+467,Relationship Beauty 0467,Beauty,154.46,98.72,23,76
+468,Sense Beauty 0468,Beauty,347.92,130.42,242,129
+469,Former Books 0469,Books,84.06,52.49,1890,190
+470,Edge Books 0470,Books,346.69,209.92,1926,85
+471,Evidence Beauty 0471,Beauty,309.24,135.34,273,132
+472,Individual Home 0472,Home & Garden,230.21,171.63,765,116
+473,Catch Health 0473,Health,456.83,298.28,1642,180
+474,Remain Sports 0474,Sports,382.12,237.73,1220,30
+475,Quite Health 0475,Health,226.14,142.81,159,154
+476,First Clothing 0476,Clothing,35.57,20.24,1035,61
+477,Lot Office 0477,Office,270.65,112.54,1749,143
+478,Four Automotive 0478,Automotive,62.54,27.03,1194,135
+479,Woman Clothing 0479,Clothing,449.95,237.66,113,126
+480,Society Home 0480,Home & Garden,259.06,138.01,118,153
+481,Would Automotive 0481,Automotive,338.02,159.97,44,111
+482,Baby Books 0482,Books,409.14,265.25,1184,28
+483,Act Electronics 0483,Electronics,214.73,135.31,1108,25
+484,Low Clothing 0484,Clothing,493.14,265.72,587,114
+485,Pretty Home 0485,Home & Garden,385.64,253.11,1493,175
+486,Order Toys 0486,Toys,190.36,134.5,918,106
+487,Black Toys 0487,Toys,44.72,32.9,1791,148
+488,Back Home 0488,Home & Garden,328.5,160.67,365,147
+489,Note Toys 0489,Toys,266.78,171.04,456,10
+490,Different Electronics 0490,Electronics,489.35,261.9,1472,149
+491,Move Toys 0491,Toys,268.31,182.27,506,127
+492,Evidence Beauty 0492,Beauty,81.79,34.79,1792,195
+493,Cause Clothing 0493,Clothing,20.95,12.86,1259,14
+494,Worker Sports 0494,Sports,107.01,41.77,68,124
+495,Happy Office 0495,Office,337.65,235.98,501,199
+496,Upon Electronics 0496,Electronics,204.12,90.58,444,24
+497,Authority Home 0497,Home & Garden,254.43,118.49,1670,197
+498,Until Office 0498,Office,162.86,95.95,1377,92
+499,Election Sports 0499,Sports,154.37,62.88,1352,143
+500,Hope Sports 0500,Sports,209.71,96.48,1140,161
